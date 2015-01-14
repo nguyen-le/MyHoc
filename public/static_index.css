@@ -1,0 +1,33 @@
+body * {
+  borderz: thin solid red; }
+
+button.paypal-donate {
+  border-radius: 5px;
+  color: navy; }
+
+button#main-donate-btn {
+  width: 100px;
+  margin-left: 45%; }
+
+#main-description {
+  padding: 10px; }
+  #main-description p {
+    font-size: 2em; }
+
+#main-image {
+  height: 600px;
+  padding: 30px; }
+  #main-image img {
+    height: 100%;
+    width: 100%; }
+
+#nav-background {
+  background-colorz: lightgreen; }
+  #nav-background a {
+    font-size: 2em;
+    color: gray; }
+    #nav-background a:hover {
+      font-size: 2em;
+      color: navy; }
+
+/*# sourceMappingURL=static_index.css.map */
